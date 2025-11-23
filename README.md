@@ -34,9 +34,23 @@ It demonstrates:
 - GitHub Pages  
 
 ---
-## UI Screenshots
+## 📸 UI Screenshots
 
+| Home Page | Menu Page | Menu Modal |
+|-----------|-----------|------------|
+| ![Home](screenshots/home.png) | ![Menu](screenshots/menu.png) | ![Menu Modal](screenshots/menumodal.png) |
 
+| Specials Page | Favorites | Orders |
+|---------------|-----------|--------|
+| ![Specials](screenshots/specials.png) | ![Favorites](screenshots/favorites.png) | ![Orders](screenshots/orders.png) |
+
+| Order Status | Contact Page | About Page |
+|--------------|--------------|------------|
+| ![Order Status](screenshots/orderstatus.png) | ![Contact](screenshots/contact.png) | ![About](screenshots/about.png) |
+
+| Login Page |
+|------------|
+| ![Login](screenshots/login.png) |
 
 ---
 
