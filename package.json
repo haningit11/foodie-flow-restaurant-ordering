@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/haningit11/foodie-flow-restaurant-ordering.git",
-  "name": "health-tracker",
+"homepage": "https://haningit11.github.io/foodie-flow-restaurant-ordering",
+  "name": "foodie-flow",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
