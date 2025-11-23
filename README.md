@@ -8,6 +8,10 @@ Users can browse the menu, view specials, manage favorites, and place orders wit
 ## Live Demo
 View the app on GitHub Pages: (https://haningit11.github.io/foodie-flow-restaurant-ordering)
 
+#### test using this credentials:
+username = testuser
+password = password
+
 ---
 
 ## Project Description
